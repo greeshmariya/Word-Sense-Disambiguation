@@ -1,1 +1,1 @@
-# Word-Sense-Ambiguation
+# Word-Sense-Dismbiguation
