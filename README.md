@@ -1,1 +1,1 @@
-# Word-Sense-Dismbiguation
+# Word-Sense-Disambiguation
